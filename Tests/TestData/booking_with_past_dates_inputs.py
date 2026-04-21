@@ -1,0 +1,7 @@
+checkindate = "16/01/2026"
+checkoutdate = "20/01/2026"
+roomname = "Suite"
+first_name = "John"
+last_name = "Doe"
+email = "fake@fakemail.com"
+phone_number = "012345678901"
