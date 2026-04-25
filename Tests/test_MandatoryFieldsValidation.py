@@ -43,3 +43,4 @@ def test_BookingWithInvalidEmailFormat(browserinstance):
     reservation_page.click_confirm_reserve()
     alerts = reservation_page.get_alert_message()
     assert alerts == alert_message, "Alert messages should be displayed for missing mandatory fields."
+'''test git branch'''
